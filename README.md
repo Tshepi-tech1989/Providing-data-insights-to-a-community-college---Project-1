@@ -1,92 +1,83 @@
 # Providing-data-insights-to-a-community-college---Project-1 QuickSight
 This repository contains comprehensive analytics dashboards and data stories for Regional Community College student enrollment data. The collection provides insights into enrollment patterns, student demographics, academic performance, and course economics to support strategic decision-making in higher education.
 
-📊 Dashboards
-Student Enrollment Dashboard
+# 🎓 Student Enrollment Resources
 
-# View Dashboard
+This repository provides quick access to all **Student Enrollment** analytics resources available in **Amazon QuickSight**.  
+Explore dashboards, stories, and scenarios designed to support data-driven decision-making in higher education.
 
-Description: Comprehensive dashboard with detailed student enrollment analytics including performance metrics, cost analysis, and evaluation scores.
+---
 
-Features:
+## 📊 Dashboards
 
-Student enrollment by major and academic year
+### **Student Enrollment Dashboard**  
+🔗 [View Dashboard](https://us-east-1.quicksight.aws.amazon.com/sn/accounts/536217686651/dashboards/9cecfa14-11e7-40e1-b7aa-96641c45eb25?directory_alias=Tshepi)
 
-Student type distribution analysis
+**Description:**  
+A comprehensive dashboard providing detailed student enrollment analytics — including performance metrics, cost analysis, and evaluation scores.
 
-Professor and course evaluation scores
+**Features:**
+- Student enrollment by major and academic year  
+- Student type distribution analysis  
+- Professor and course evaluation scores  
+- Cost analysis per course and professor  
 
-Cost analysis per course and professor
+---
 
-Student Body Overview
+## 🔍 Data Sources
 
-🔗 View Dashboard
+### **Regional Community College Student Data**  
+🔗 [View Topic](https://us-east-1.quicksight.aws.amazon.com/sn/topics/S1WHsTQH4xJu4b1CSluDjuvzvoxlmWOD/summary)
 
-Description: Focused dashboard providing an overview of student body composition and enrollment trends.
+**Description:**  
+An interactive Q&A topic offering access to detailed student information, including demographics, academic performance, and financial data.
 
-Features:
+**Use for:**  
+Natural language queries and custom data exploration.
 
-Student enrollment breakdown by major
+---
 
-Academic year analysis
+## 📖 Data Stories & Scenarios
 
-Student type categorization
+### **Student Enrollment Data Story**  
+🔗 [View Story](https://us-east-1.quicksight.aws.amazon.com/sn/stories/0e5be8df-6515-4b43-b9fe-765e2027dda7/view)
 
-🔍 Data Sources
-Regional Community College Student Data
+**Description:**  
+A narrative-driven exploration of key enrollment trends, student performance, and institutional insights, ideal for presentations and reporting.
 
-🔗 View Topic
+---
 
-Description: Interactive Q&A environment for understanding student enrollment data with comprehensive student information including demographics, academic performance, and financial data.
+### **Student Enrollment Scenario**  
+🔗 [View Scenario](https://us-east-1.quicksight.aws.amazon.com/sn/scenarios/ed6413c6-8c02-46f1-812f-2d96b1da958f)
 
-Available for: Natural language queries and detailed data analysis
+**Description:**  
+An analytical scenario designed to simulate and analyze strategic challenges in higher education.  
 
-📖 Data Stories & Scenarios
-Student Enrollment Data Story
+**Explore:**
+- Enrollment forecasting and capacity planning  
+- Student retention analysis  
+- Academic performance optimization  
+- Cost-effectiveness evaluation  
+- Demographic trend analysis  
 
-🔗 View Data Story
+---
 
-Description: A narrative-driven data exploration that highlights key enrollment trends, student performance insights, and institutional analysis for better decision-making.
+## 🚀 Getting Started
 
-Student Enrollment Scenario
+1. **Dashboards:** Access the [Student Enrollment Dashboard](https://us-east-1.quicksight.aws.amazon.com/sn/accounts/536217686651/dashboards/9cecfa14-11e7-40e1-b7aa-96641c45eb25?directory_alias=Tshepi) for visual insights.  
+2. **Topics:** Use the [Regional Community College Topic](https://us-east-1.quicksight.aws.amazon.com/sn/topics/S1WHsTQH4xJu4b1CSluDjuvzvoxlmWOD/summary) for Q&A-based analysis.  
+3. **Stories:** Review the [Enrollment Data Story](https://us-east-1.quicksight.aws.amazon.com/sn/stories/0e5be8df-6515-4b43-b9fe-765e2027dda7/view) for key takeaways.  
+4. **Scenarios:** Explore the [Enrollment Scenario](https://us-east-1.quicksight.aws.amazon.com/sn/scenarios/ed6413c6-8c02-46f1-812f-2d96b1da958f) for predictive and what-if analyses.  
 
-🔗 View Scenario
+---
 
-Description: Predefined analytical scenario enabling exploration of critical institutional questions and predictive modeling such as:
+## 📈 Key Use Cases
 
-Enrollment forecasting and capacity planning
+- **Enrollment Management:** Track and forecast student enrollment patterns.  
+- **Performance Analysis:** Monitor academic success across programs.  
+- **Financial Planning:** Analyze cost structures and budget allocation.  
+- **Strategic Planning:** Support institutional decision-making with data insights.  
 
-Student retention analysis
+---
 
-Academic performance optimization
-
-Cost-effectiveness evaluation
-
-Demographic trend analysis
-
-🚀 Getting Started
-
-Interactive Dashboards: Click the quick links above to access visual analytics.
-
-Data Exploration: Use the Regional Community College Topic
- for detailed Q&A analysis.
-
-Deep Research: Explore the Data Story
- for comprehensive insights.
-
-Scenario Testing: Review the Scenario
- for analytical forecasting and modeling.
-
-Custom Analysis: Upload additional files to your QuickSight Space for extended exploration.
-
-📈 Key Use Cases
-
-Enrollment Management: Track and forecast student enrollment patterns.
-
-Performance Analysis: Monitor academic success across programs.
-
-Financial Planning: Analyze cost structures and budget allocation.
-
-Strategic Planning: Support institutional decision-making with data-driven insights.
-
-For additional help with student enrollment analysis, use the chat interface for specific queries about your data or refer to the Amazon QuickSight documentation.
+*Created and maintained by **Tshepang Mache** using Amazon QuickSight for higher education analytics.*
