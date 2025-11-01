@@ -4,7 +4,7 @@ This repository contains comprehensive analytics dashboards and data stories for
 📊 Dashboards
 Student Enrollment Dashboard
 
-🔗 View Dashboard
+# View Dashboard
 
 Description: Comprehensive dashboard with detailed student enrollment analytics including performance metrics, cost analysis, and evaluation scores.
 
