@@ -1,2 +1,2 @@
 # Providing-data-insights-to-a-community-college---Project-1
-The dashboard represents a sophisticated analytical framework that transforms raw educational data into actionable insights for institutional excellence and strategic growth planning.
+This repository contains comprehensive analytics dashboards and data stories for Regional Community College student enrollment data. The collection provides insights into enrollment patterns, student demographics, academic performance, and course economics to support strategic decision-making in higher education.
