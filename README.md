@@ -3,18 +3,18 @@ This repository contains comprehensive analytics dashboards and data stories for
 
 📊 Dashboards
 Student Enrollment Dashboard
-Student Enrollment Dashboard
+# Student Enrollment Dashboard
 
 Description: Comprehensive dashboard with detailed student enrollment analytics including performance metrics, cost analysis, and evaluation scores.
 
 Features:
-
 Student enrollment by major and academic year
 Student type distribution analysis
 Professor and course evaluation scores
 Cost analysis per course and professor
+
 Student Body Overview
-Student Body Overview
+# Student Body Overview
 
 Description: Focused dashboard providing an overview of student body composition and enrollment trends.
 
